@@ -275,7 +275,7 @@ h6 {
   width: 100%;
   height: 100vh;
   background: url("../img/hero-bg.jpg") top right no-repeat;
-  background-size: contain;
+  background-size: cover;
   position: relative;
 }
 
@@ -1019,6 +1019,10 @@ section {
   .testimonials .testimonial-item p {
     width: 80%;
   }
+}
+
+#moreTestimonials {
+  width: max-content;
 }
 
 /*--------------------------------------------------------------
