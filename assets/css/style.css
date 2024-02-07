@@ -437,6 +437,11 @@ section {
   border-radius: 20px;
   background-color: #0563bb;
   font-size: 18px;
+  width: 420px;
+
+  @media (max-width: 430px) {
+    width: 350px;
+  }
 }
 
 /*--------------------------------------------------------------
