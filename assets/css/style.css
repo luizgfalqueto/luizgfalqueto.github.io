@@ -884,7 +884,7 @@ section {
 }
 
 .services .icon-box .icon i {
-  font-size: 36px;
+  font-size: 40px;
   transition: 0.5s;
   position: relative;
 }
@@ -992,6 +992,30 @@ section {
 
 .services .iconbox-teal:hover .icon path {
   fill: #11dbcf;
+}
+
+.services .iconbox-black i {
+  color: #292929;
+}
+
+.services .iconbox-black:hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-black:hover .icon path {
+  fill: #292929;
+}
+
+.services .iconbox-dark-orange i {
+  color: #f86706;
+}
+
+.services .iconbox-dark-orange:hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-dark-orange:hover .icon path {
+  fill: #f86706;
 }
 
 /*--------------------------------------------------------------
